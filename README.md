@@ -41,6 +41,15 @@ This project explores the Zomato restaurant dataset using Python to uncover insi
   - **Max**: ₹800,000 _(outlier)_
 
 ---
+## 📊 Visual Highlights from EDA
+
+### 🍽️ Most Popular Cuisines
+![Cuisine Plot](cusines.png)
+
+### 🌟 Ratings Distribution of Restaurants
+![Rating Plot](relation.png)
+
+These plots help visualize user preferences and restaurant distribution trends across major cuisines and rating groups.
 
 ## 🛠️ Tools & Libraries Used
 
